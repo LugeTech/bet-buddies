@@ -1,6 +1,6 @@
 # Under construction
 
-## App Name: BetBuddies
+## App Name: bet-buddies
 
 ### Comprehensive Features:
 
