@@ -34,6 +34,9 @@ Authentication, betting, currency, rooms, challenges, live data, chat, profiles,
 
 ## Subtasks
 
+
+I approve
+
 - [ ] Insert the exact single-line comment immediately after the existing `"use client"` directive in `src/app/page.tsx`, preserving every other application-source byte.
 - [ ] Run the `lint` and production `build` scripts; report any unrelated baseline failure without expanding scope.
 - [ ] Verify the exact comment placement and that the only intended file changes are `src/app/page.tsx` and `SPEC.md`.
