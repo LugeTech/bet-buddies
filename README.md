@@ -1,6 +1,3 @@
-# Under construction
-
-
 ## App Name: BetBuddies
 
 ### Comprehensive Features:
@@ -113,3 +110,5 @@
 6. **Post-Launch:**
    - Continuous updates and feature enhancements.
    - Monitor user feedback and make improvements.
+
+Word count: 853
